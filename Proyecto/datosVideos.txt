@@ -1,0 +1,71 @@
+p 110 Avatar Ciencia_ficcion 161 1
+p 111 Batman_El_caballero_de_la_noche Accion 152 2
+p 112 Guason Misterio 121 5
+p 113 La_La_Land Musical 127 3
+p 114 Toy_Story_3 Animacion 103 4
+p 115 1917 Misterio 119 2
+p 116 Parasitos Misterio 132 1
+p 117 Avengers_Endgame Ciencia_ficcion 181 5
+p 118 Intensa_Mente Animacion 94 4
+p 119 Capitan_America_Civil_War Ciencia_ficcion 147 3
+p 120 Guardianes_de_la_Galaxia Ciencia_ficcion 118 3
+p 121 Pelea_de_Maestros Comedia 91 2
+p 122 Mision_de_Rescate Accion 117 1
+p 123 Armados_y_Peligrosos Accion 108 4
+p 124 Una_Noche_para_Sobrevivir Accion 114 3
+p 125 Ciudad_de_Sombras Misterio 104 2
+p 126 Vaselina Musical 110 5
+p 127 Mamma_Mia Musical 108 4
+p 128 Encantada Musical 108 3
+p 129 Shrek_Tercero Animacion 94 5
+p 130 Madagascar Animacion 87 3
+p 131 La_Mascara Comedia 101 3
+p 132 Click Comedia 107 4
+p 133 Perfectos_Desconocidos Comedia 104 1
+e 210 The_Vanishing_of_Will_Byers Ciencia_ficcion 42 5 Stranger_things 1 1
+e 211 The_Weirdo_on_Maple Ciencia_ficcion 42 5 Stranger_things 2 1
+e 212 Holly_Jolly Ciencia_ficcion 42 4 Stranger_things 3 1
+e 213 The_Body Ciencia_ficcion 42 4 Stranger_things 4 1
+e 214 The_Flea_and_the_Acrobat Ciencia_ficcion 42 5 Stranger_things 5 1
+e 216 The_Monster Ciencia_ficcion 42 5 Stranger_things 6 1
+e 217 The_Bathtub Ciencia_ficcion 42 5 Stranger_things 7 1
+e 218 The_Upside_Down Ciencia_ficcion 42 5 Stranger_things 8 1
+e 219 MADMAX Ciencia_ficcion 42 5 Stranger_things 1 2
+e 220 Trick_or_Treat_Freak Ciencia_ficcion 42 5 Stranger_things 2 2
+e 221 The_Pollywog Ciencia_ficcion 42 5 Stranger_things 3 2
+e 222 The_Spy Ciencia_ficcion 42 5 Stranger_things 4 2
+e 223 Pilot Comedia 39 4 How_I_met_your_mother 1 1
+e 224 Purple_Giraffe Comedia 42 4 How_I_met_your_mother 2 1
+e 225 The_Sweet_Taste_of_Liberty Comedia 43 5 How_I_met_your_mother 3 1
+e 226 The_One_with_the_Baby_on_the_Bus Comedia 41 4 How_I_met_your_mother 4 2
+e 227 Return_of_the_Shirt Comedia 40 5 How_I_met_your_mother 5 2
+e 228 Okay_Awesome Comedia 39 4 How_I_met_your_mother 6 2
+e 229 El_himno_nacional Misterio 44 1 Black_mirror 1 1
+e 230 Quince_millones_de_meritos Misterio 62 3 Black_mirror 2 1
+e 231 Toda_tu_historia Misterio 49 4 Black_mirror 3 1
+e 232 Vuelvo_enseguida Misterio 48 5 Black_mirror 1 2
+e 233 Oso_blanco Misterio 42 5 Black_mirror 2 2
+e 234 El_momento_Waldo Misterio 43 2 Black_mirror 3 2
+e 235 Blanca_Navidad Misterio 73 5 Black_mirror 4 2
+e 236 Caida_en_picada Misterio 63 3 Black_mirror 1 3
+e 237 Partida Misterio 57 4 Black_mirror 2 3
+e 238 Callate_y_baila Misterio 52 2 Black_mirror 3 3
+e 239 San_Junipero Misterio 61 3 Black_mirror 4 3
+e 240 El_hombre_contra_el_fuego Misterio 60 4 Black_mirror 5 3
+e 241 Odio_nacional Misterio 89 5 Black_mirror 6 3
+e 242 Buscando_las_semillas Animacion 22 4 Rick_y_Morty 1 1
+e 243 Invasion_canina Animacion 21 3 Rick_y_Morty 2 1
+e 244 Parque_anatomico Animacion 21 2 Rick_y_Morty 3 1
+e 245 La_simulacion_alienigena Animacion 21 5 Rick_y_Morty 4 1
+e 246 Rupturas_en_el_tiempo Animacion 22 5 Rick_y_Morty 1 2
+e 247 Morty_escapa_en_la_noche Animacion 22 3 Rick_y_Morty 2 2
+e 248 Asimilacion Animacion 22 4 Rick_y_Morty 3 2
+e 249 Rick_vengador_del_futuro Animacion 21 2 Rick_y_Morty 4 2
+e 250 La_redencion_de_Rick Animacion 23 4 Rick_y_Morty 1 3
+e 251 Rickusando_la_piedra Animacion 22 3 Rick_y_Morty 2 3
+e 252 Pepinillo_Rick Animacion 23 5 Rick_y_Morty 3 3
+e 253 Los_vindicadores Animacion 23 2 Rick_y_Morty 4 3
+e 254 Aprovechando_el_mortymomento Animacion 22 3 Rick_y_Morty 1 4
+e 255 El_anciano_y_el_trono Animacion 23 4 Rick_y_Morty 2 4
+e 256 Una_pandilla_para_el_patetico_Morty Animacion 23 5 Rick_y_Morty 3 4
+e 257 La_ley_y_el_dragorden Animacion 22 1 Rick_y_Morty 4 4
